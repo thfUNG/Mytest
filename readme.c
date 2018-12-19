@@ -5,3 +5,5 @@ main(){
 	printf("this is git repo\n");
 	return;
 }
+// how to update current branch:
+//https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
